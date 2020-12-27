@@ -1,8 +1,8 @@
 const express = require('express')
 const app = express()
-const fetch = require('node-fetch')
 const fs = require('fs')
 const path = require('path')
+const dataService = require('./data-service')
 
 const http_port = 8080
 
@@ -16,25 +16,9 @@ app.get('/', (req, res) => {
 app.get('/api/getAll', (req, res) => {
 
     var data = fs.readFileSync(path.join(__dirname + '/data/country-store.json'))
-    var countries = []
-    if (data.length == 0) {
-        fetch('https://covid19.mathdro.id/api/countries')
-            .then(response => {
-                return response.json()
-            })
-            .then(data => {
-                if (!data.error) {
-                    data.countries.map(country => {
-                        var countryData = {}
-                        countryData.name = country.name
-                        countries.push(countryData)
-                        fs.writeFileSync(path.join(__dirname + '/data/country-store.json'), JSON.stringify(countries), (error) => {
-                            if (error)
-                                console.log(error)
-                        })
-                    })
-                }
-            })
+    if (data.length == 0) 
+    {
+        dataService.initData()
     }
 
 })
