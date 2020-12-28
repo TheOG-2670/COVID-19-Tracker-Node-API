@@ -19,7 +19,7 @@ app.get('/api/getAll', (req, res) => {
     // console.log(countries.length)
     if (countries.length == 0) 
     {
-        dataService.initData()
+        dataService.initCountries()
     }
     else
     {
