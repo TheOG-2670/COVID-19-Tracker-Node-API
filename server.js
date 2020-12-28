@@ -15,10 +15,15 @@ app.get('/', (req, res) => {
 
 app.get('/api/getAll', (req, res) => {
 
-    var data = fs.readFileSync(path.join(__dirname + '/data/country-store.json'))
-    if (data.length == 0) 
+    var countries = JSON.parse(fs.readFileSync(path.join(__dirname + "/data/country-store.json")))
+    // console.log(countries.length)
+    if (countries.length == 0) 
     {
         dataService.initData()
+    }
+    else
+    {
+        dataService.setCovidData(countries)
     }
 
 })
