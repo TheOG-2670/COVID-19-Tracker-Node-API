@@ -1,4 +1,3 @@
-const { countReset } = require('console')
 const express = require('express')
 const app = express()
 const fs = require('fs')
@@ -15,12 +14,12 @@ app.get('/', (req, res) => {
 
 
 app.get('/api/getAll', (req, res) => {
-    // var countries = JSON.parse(fs.readFileSync(path.join(__dirname + "/data/country-store.json")))
-    // if (countries.length == 0) 
-    // {
-    //     dataService.initData()     
-    // }
-    // dataService.updateCovidData(countries)  
+    var countries = JSON.parse(fs.readFileSync(path.join(__dirname + "/data/country-store.json")))
+    if (countries.length == 0) 
+    {
+        dataService.initData()
+    }
+    dataService.updateCovidData(countries)  
 
     res.send(dataService.getCovidData())
 })
