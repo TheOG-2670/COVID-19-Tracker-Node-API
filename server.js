@@ -1,7 +1,5 @@
 const express = require('express')
 const app = express()
-const fs = require('fs')
-const path = require('path')
 const dataService = require('./data-service')
 const http_port = 8080
 
