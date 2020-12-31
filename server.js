@@ -12,16 +12,24 @@ app.get('/', (req, res) => {
     res.send('works')
 })
 
-
-app.get('/api/getAll', (req, res) => {
-    var countries = JSON.parse(fs.readFileSync(path.join(__dirname + "/data/country-store.json")))
-    if (countries.length == 0) 
+app.post('/api/covid/initData', (req, res)=>{
+    if(dataService.getCovidData().length === 0)
     {
         dataService.initData()
+        console.log("server - initial data cached!")
+        res.send("client - data cached!")
     }
-    dataService.updateCovidData(countries)  
+})
 
+app.post('/api/covid/updateData', (req, res)=>{
+    dataService.updateCovidData(dataService.getCovidData())  
+    console.log("server - data cache updated!")
+    res.send("client - cache updated!")
+})
+
+app.get('/api/covid/getCachedData', (req, res) => {
     res.send(dataService.getCovidData())
+    console.log("server - data sent to app!")
 })
 
 app.listen(http_port, () => {
