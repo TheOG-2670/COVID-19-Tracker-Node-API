@@ -19,15 +19,11 @@ app.post('/api/covid/initData', (req, res)=>{
     }
 })
 
-app.post('/api/covid/updateData', (req, res)=>{
-    dataService.updateCovidData(dataService.getCovidData())  
+app.get('/api/covid/getCachedData', (req, res)=>{
+    var updatedData = dataService.getCovidData()
+    console.log(updatedData)
+    res.send(updatedData)
     console.log("server - data cache updated!")
-    res.send("client - cache updated!")
-})
-
-app.get('/api/covid/getCachedData', (req, res) => {
-    res.send(dataService.getCovidData())
-    console.log("server - data sent to app!")
 })
 
 app.listen(http_port, () => {
