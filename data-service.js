@@ -82,6 +82,13 @@ module.exports.updateCovidData = function (countries) {
     updateCountryData(countries)
 }
 
+module.exports.getCountryData = async function(name, callback) {
+    var countryData = await fetch('https://disease.sh/v3/covid-19/countries/' + name + '?strict=true')
+    var countryResponse = await countryData.json();
+    console.log(countryResponse)
+    callback(countryResponse)
+}
+
 module.exports.getCovidData = function () {
     var cache = JSON.parse(fs.readFileSync(path.join(__dirname + "/data/country-store.json")))
     // console.log(cache)
