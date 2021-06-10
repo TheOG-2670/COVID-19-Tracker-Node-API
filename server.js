@@ -11,18 +11,15 @@ app.get('/', (req, res) => {
 })
 
 app.post('/api/covid/initData', (req, res)=>{
-    if(dataService.getCovidData().length === 0)
-    {
         dataService.initData()
         console.log("server - initial data cached!")
         res.send("client - data cached!")
-    }
 })
 
-app.get('/api/covid/getCachedData', (req, res)=>{
+app.get('/api/covid/cachedData', (req, res)=>{
     var updatedData = dataService.getCovidData()
-    console.log(updatedData)
-    res.send(updatedData)
+    res.setHeader('Content-Type', 'application/json')
+    res.json(updatedData)
     console.log("server - data cache updated!")
 })
 
