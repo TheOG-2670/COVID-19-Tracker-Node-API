@@ -23,6 +23,15 @@ app.get('/api/covid/cachedData', (req, res)=>{
     console.log("server - data cache updated!")
 })
 
+app.get('/api/covid/countries/:name', (req, res)=>{
+    console.log(req.params.name)
+    
+    dataService.getCountryData(req.params.name, (data)=>{
+        console.log(data)
+        res.json(data)
+    })
+})
+
 app.listen(http_port, () => {
     console.log('listening')
 })
