@@ -32,10 +32,7 @@ module.exports.initData = function()
         })
 }
 
-//.splice to replace data in array -> parameters: index, number of elements, object
-//.find to find and return object/element in array -> parameters: lambda condition
-//.indexOf to find index of specific object/element in array -> parameters: element/object
-async function updateGlobalData()
+exports.updateGlobalData = async function()
 {
     var globalData = await fetch('https://disease.sh/v3/covid-19/all')
     var globalResponse = await globalData.json();
@@ -50,25 +47,21 @@ async function updateGlobalData()
 }
 
 
-async function updateCountryData(country)
+exports.updateCountryData = async function(country)
 {
     var diacritics='[çôé]'
     if(!country.name.match(diacritics))
     {
             var countryData = await fetch('https://disease.sh/v3/covid-19/countries/' + country.name + '?strict=true')
             var countryResponse = await countryData.json();
-            // console.log(countryResponse)
             
+            country.id=country.id
             country.confirmed = countryResponse.cases
             country.deaths = countryResponse.deaths
             country.recovered = countryResponse.recovered
     }
+    console.log(country)
     writeToCache(country)
-}
-
-module.exports.updateCovidData = function (countries) {
-    updateGlobalData()
-    updateCountryData(countries)
 }
 
 
