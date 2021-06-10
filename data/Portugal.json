@@ -1,0 +1,9 @@
+{
+  "id": 159,
+  "name": "Portugal",
+  "iso_symbol": "PT",
+  "flag": "https://disease.sh/assets/img/flags/pt.png",
+  "confirmed": 821104,
+  "deaths": 16845,
+  "recovered": 777503
+}

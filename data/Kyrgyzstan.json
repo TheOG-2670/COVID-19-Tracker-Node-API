@@ -1,0 +1,9 @@
+{
+  "id": 107,
+  "name": "Kyrgyzstan",
+  "iso_symbol": "KG",
+  "flag": "https://disease.sh/assets/img/flags/kg.png",
+  "confirmed": 88276,
+  "deaths": 1498,
+  "recovered": 84723
+}

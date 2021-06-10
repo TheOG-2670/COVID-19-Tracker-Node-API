@@ -1,0 +1,9 @@
+{
+  "id": 184,
+  "name": "Somalia",
+  "iso_symbol": "SO",
+  "flag": "https://disease.sh/assets/img/flags/so.png",
+  "confirmed": 11292,
+  "deaths": 521,
+  "recovered": 4795
+}

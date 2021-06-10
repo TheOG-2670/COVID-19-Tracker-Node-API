@@ -1,0 +1,9 @@
+{
+  "id": 30,
+  "name": "Burkina Faso",
+  "iso_symbol": "BF",
+  "flag": "https://disease.sh/assets/img/flags/bf.png",
+  "confirmed": 12717,
+  "deaths": 146,
+  "recovered": 12385
+}

@@ -1,0 +1,9 @@
+{
+  "id": 28,
+  "name": "Brunei",
+  "iso_symbol": "BN",
+  "flag": "https://disease.sh/assets/img/flags/bn.png",
+  "confirmed": 207,
+  "deaths": 3,
+  "recovered": 191
+}

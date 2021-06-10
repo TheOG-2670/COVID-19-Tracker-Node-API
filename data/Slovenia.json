@@ -1,0 +1,9 @@
+{
+  "id": 182,
+  "name": "Slovenia",
+  "iso_symbol": "SI",
+  "flag": "https://disease.sh/assets/img/flags/si.png",
+  "confirmed": 214045,
+  "deaths": 4040,
+  "recovered": 197420
+}

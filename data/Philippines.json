@@ -1,0 +1,9 @@
+{
+  "id": 157,
+  "name": "Philippines",
+  "iso_symbol": "PH",
+  "flag": "https://disease.sh/assets/img/flags/ph.png",
+  "confirmed": 741181,
+  "deaths": 13191,
+  "recovered": 603310
+}

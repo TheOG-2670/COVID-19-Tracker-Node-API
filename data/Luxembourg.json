@@ -1,0 +1,9 @@
+{
+  "id": 116,
+  "name": "Luxembourg",
+  "iso_symbol": "LU",
+  "flag": "https://disease.sh/assets/img/flags/lu.png",
+  "confirmed": 61255,
+  "deaths": 743,
+  "recovered": 56903
+}

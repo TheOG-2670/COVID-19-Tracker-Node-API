@@ -1,0 +1,9 @@
+{
+  "id": 33,
+  "name": "Cambodia",
+  "iso_symbol": "KH",
+  "flag": "https://disease.sh/assets/img/flags/kh.png",
+  "confirmed": 2378,
+  "deaths": 11,
+  "recovered": 1176
+}

@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "name": "Algeria",
+  "iso_symbol": "DZ",
+  "flag": "https://disease.sh/assets/img/flags/dz.png",
+  "confirmed": 117061,
+  "deaths": 3089,
+  "recovered": 81442
+}

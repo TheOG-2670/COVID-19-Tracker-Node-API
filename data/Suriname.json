@@ -1,0 +1,9 @@
+{
+  "id": 191,
+  "name": "Suriname",
+  "iso_symbol": "SR",
+  "flag": "https://disease.sh/assets/img/flags/sr.png",
+  "confirmed": 9109,
+  "deaths": 177,
+  "recovered": 8594
+}

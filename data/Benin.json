@@ -1,0 +1,9 @@
+{
+  "id": 20,
+  "name": "Benin",
+  "iso_symbol": "BJ",
+  "flag": "https://disease.sh/assets/img/flags/bj.png",
+  "confirmed": 7100,
+  "deaths": 90,
+  "recovered": 6452
+}

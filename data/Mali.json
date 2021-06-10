@@ -1,0 +1,9 @@
+{
+  "id": 124,
+  "name": "Mali",
+  "iso_symbol": "ML",
+  "flag": "https://disease.sh/assets/img/flags/ml.png",
+  "confirmed": 9998,
+  "deaths": 384,
+  "recovered": 6800
+}

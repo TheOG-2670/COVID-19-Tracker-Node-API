@@ -1,0 +1,9 @@
+{
+  "id": 36,
+  "name": "Caribbean Netherlands",
+  "iso_symbol": "BQ",
+  "flag": "https://disease.sh/assets/img/flags/bq.png",
+  "confirmed": 1368,
+  "deaths": 10,
+  "recovered": 1003
+}

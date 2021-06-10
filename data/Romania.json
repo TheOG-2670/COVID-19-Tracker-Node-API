@@ -1,0 +1,9 @@
+{
+  "id": 161,
+  "name": "Romania",
+  "iso_symbol": "RO",
+  "flag": "https://disease.sh/assets/img/flags/ro.png",
+  "confirmed": 946647,
+  "deaths": 23409,
+  "recovered": 845357
+}

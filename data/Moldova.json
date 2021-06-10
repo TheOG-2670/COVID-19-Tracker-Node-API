@@ -1,0 +1,9 @@
+{
+  "id": 133,
+  "name": "Moldova",
+  "iso_symbol": "MD",
+  "flag": "https://disease.sh/assets/img/flags/md.png",
+  "confirmed": 228370,
+  "deaths": 4915,
+  "recovered": 205759
+}

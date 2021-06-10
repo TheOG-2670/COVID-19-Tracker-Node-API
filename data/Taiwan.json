@@ -1,0 +1,9 @@
+{
+  "id": 196,
+  "name": "Taiwan",
+  "iso_symbol": "TW",
+  "flag": "https://disease.sh/assets/img/flags/tw.png",
+  "confirmed": 1024,
+  "deaths": 10,
+  "recovered": 981
+}

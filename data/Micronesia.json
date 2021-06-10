@@ -1,0 +1,9 @@
+{
+  "id": 132,
+  "name": "Micronesia",
+  "iso_symbol": "FM",
+  "flag": "https://disease.sh/assets/img/flags/fm.png",
+  "confirmed": 1,
+  "deaths": 0,
+  "recovered": 1
+}

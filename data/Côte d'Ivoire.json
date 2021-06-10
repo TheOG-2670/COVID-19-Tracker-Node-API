@@ -1,0 +1,9 @@
+{
+  "id": 52,
+  "name": "Côte d'Ivoire",
+  "iso_symbol": "CI",
+  "flag": "https://disease.sh/assets/img/flags/ci.png",
+  "confirmed": 43542,
+  "deaths": 242,
+  "recovered": 39842
+}

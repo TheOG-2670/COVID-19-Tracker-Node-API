@@ -1,0 +1,9 @@
+{
+  "id": 48,
+  "name": "Cuba",
+  "iso_symbol": "CU",
+  "flag": "https://disease.sh/assets/img/flags/cu.png",
+  "confirmed": 74212,
+  "deaths": 421,
+  "recovered": 69868
+}

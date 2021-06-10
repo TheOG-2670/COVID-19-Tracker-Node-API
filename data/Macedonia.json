@@ -1,0 +1,9 @@
+{
+  "id": 119,
+  "name": "Macedonia",
+  "iso_symbol": "MK",
+  "flag": "https://disease.sh/assets/img/flags/mk.png",
+  "confirmed": 128511,
+  "deaths": 3749,
+  "recovered": 106392
+}

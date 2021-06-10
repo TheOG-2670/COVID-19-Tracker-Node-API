@@ -1,0 +1,9 @@
+{
+  "id": 199,
+  "name": "Thailand",
+  "iso_symbol": "TH",
+  "flag": "https://disease.sh/assets/img/flags/th.png",
+  "confirmed": 28821,
+  "deaths": 94,
+  "recovered": 27379
+}

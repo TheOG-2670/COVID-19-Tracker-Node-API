@@ -1,0 +1,9 @@
+{
+  "id": 150,
+  "name": "Oman",
+  "iso_symbol": "OM",
+  "flag": "https://disease.sh/assets/img/flags/om.png",
+  "confirmed": 158056,
+  "deaths": 1669,
+  "recovered": 143398
+}

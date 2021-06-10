@@ -1,0 +1,9 @@
+{
+  "id": 8,
+  "name": "Armenia",
+  "iso_symbol": "AM",
+  "flag": "https://disease.sh/assets/img/flags/am.png",
+  "confirmed": 191491,
+  "deaths": 3497,
+  "recovered": 172605
+}

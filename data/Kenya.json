@@ -1,0 +1,9 @@
+{
+  "id": 105,
+  "name": "Kenya",
+  "iso_symbol": "KE",
+  "flag": "https://disease.sh/assets/img/flags/ke.png",
+  "confirmed": 132646,
+  "deaths": 2147,
+  "recovered": 92290
+}

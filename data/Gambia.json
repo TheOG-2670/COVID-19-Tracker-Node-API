@@ -1,0 +1,9 @@
+{
+  "id": 74,
+  "name": "Gambia",
+  "iso_symbol": "GM",
+  "flag": "https://disease.sh/assets/img/flags/gm.png",
+  "confirmed": 5447,
+  "deaths": 165,
+  "recovered": 5060
+}

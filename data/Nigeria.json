@@ -1,0 +1,9 @@
+{
+  "id": 148,
+  "name": "Nigeria",
+  "iso_symbol": "NG",
+  "flag": "https://disease.sh/assets/img/flags/ng.png",
+  "confirmed": 162762,
+  "deaths": 2056,
+  "recovered": 151532
+}

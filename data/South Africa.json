@@ -1,0 +1,9 @@
+{
+  "id": 185,
+  "name": "South Africa",
+  "iso_symbol": "ZA",
+  "flag": "https://disease.sh/assets/img/flags/za.png",
+  "confirmed": 1546735,
+  "deaths": 52788,
+  "recovered": 1473588
+}

@@ -1,0 +1,9 @@
+{
+  "id": 160,
+  "name": "Qatar",
+  "iso_symbol": "QA",
+  "flag": "https://disease.sh/assets/img/flags/qa.png",
+  "confirmed": 179184,
+  "deaths": 289,
+  "recovered": 163684
+}

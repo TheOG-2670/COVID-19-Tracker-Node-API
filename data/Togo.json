@@ -1,0 +1,9 @@
+{
+  "id": 201,
+  "name": "Togo",
+  "iso_symbol": "TG",
+  "flag": "https://disease.sh/assets/img/flags/tg.png",
+  "confirmed": 10249,
+  "deaths": 109,
+  "recovered": 7815
+}

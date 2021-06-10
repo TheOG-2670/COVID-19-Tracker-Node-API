@@ -1,0 +1,9 @@
+{
+  "id": 73,
+  "name": "Gabon",
+  "iso_symbol": "GA",
+  "flag": "https://disease.sh/assets/img/flags/ga.png",
+  "confirmed": 19140,
+  "deaths": 114,
+  "recovered": 16311
+}

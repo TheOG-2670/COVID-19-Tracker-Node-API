@@ -1,0 +1,9 @@
+{
+  "id": 31,
+  "name": "Burundi",
+  "iso_symbol": "BI",
+  "flag": "https://disease.sh/assets/img/flags/bi.png",
+  "confirmed": 2757,
+  "deaths": 6,
+  "recovered": 773
+}

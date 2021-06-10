@@ -1,0 +1,9 @@
+{
+  "id": 5,
+  "name": "Anguilla",
+  "iso_symbol": "AI",
+  "flag": "https://disease.sh/assets/img/flags/ai.png",
+  "confirmed": 25,
+  "deaths": 0,
+  "recovered": 21
+}

@@ -1,0 +1,9 @@
+{
+  "id": 16,
+  "name": "Barbados",
+  "iso_symbol": "BB",
+  "flag": "https://disease.sh/assets/img/flags/bb.png",
+  "confirmed": 3634,
+  "deaths": 41,
+  "recovered": 3444
+}

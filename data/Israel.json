@@ -1,0 +1,9 @@
+{
+  "id": 99,
+  "name": "Israel",
+  "iso_symbol": "IL",
+  "flag": "https://disease.sh/assets/img/flags/il.png",
+  "confirmed": 832639,
+  "deaths": 6197,
+  "recovered": 817698
+}

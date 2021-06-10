@@ -1,0 +1,9 @@
+{
+  "id": 209,
+  "name": "Uganda",
+  "iso_symbol": "UG",
+  "flag": "https://disease.sh/assets/img/flags/ug.png",
+  "confirmed": 40839,
+  "deaths": 335,
+  "recovered": 40448
+}

@@ -1,0 +1,9 @@
+{
+  "id": 142,
+  "name": "Nepal",
+  "iso_symbol": "NP",
+  "flag": "https://disease.sh/assets/img/flags/np.png",
+  "confirmed": 277147,
+  "deaths": 3030,
+  "recovered": 272727
+}

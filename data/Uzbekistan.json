@@ -1,0 +1,9 @@
+{
+  "id": 212,
+  "name": "Uzbekistan",
+  "iso_symbol": "UZ",
+  "flag": "https://disease.sh/assets/img/flags/uz.png",
+  "confirmed": 82682,
+  "deaths": 628,
+  "recovered": 80799
+}

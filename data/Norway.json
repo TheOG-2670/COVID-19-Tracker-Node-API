@@ -1,0 +1,9 @@
+{
+  "id": 149,
+  "name": "Norway",
+  "iso_symbol": "NO",
+  "flag": "https://disease.sh/assets/img/flags/no.png",
+  "confirmed": 95208,
+  "deaths": 661,
+  "recovered": 80023
+}

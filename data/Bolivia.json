@@ -1,0 +1,9 @@
+{
+  "id": 23,
+  "name": "Bolivia",
+  "iso_symbol": "BO",
+  "flag": "https://disease.sh/assets/img/flags/bo.png",
+  "confirmed": 270347,
+  "deaths": 12211,
+  "recovered": 219389
+}

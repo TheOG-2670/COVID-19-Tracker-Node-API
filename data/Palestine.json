@@ -1,0 +1,9 @@
+{
+  "id": 152,
+  "name": "Palestine",
+  "iso_symbol": "PS",
+  "flag": "https://disease.sh/assets/img/flags/ps.png",
+  "confirmed": 240065,
+  "deaths": 2614,
+  "recovered": 213590
+}

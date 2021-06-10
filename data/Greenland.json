@@ -1,0 +1,9 @@
+{
+  "id": 80,
+  "name": "Greenland",
+  "iso_symbol": "GL",
+  "flag": "https://disease.sh/assets/img/flags/gl.png",
+  "confirmed": 31,
+  "deaths": 0,
+  "recovered": 31
+}

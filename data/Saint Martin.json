@@ -1,0 +1,9 @@
+{
+  "id": 168,
+  "name": "Saint Martin",
+  "iso_symbol": "MF",
+  "flag": "https://disease.sh/assets/img/flags/mf.png",
+  "confirmed": 1619,
+  "deaths": 12,
+  "recovered": 1399
+}

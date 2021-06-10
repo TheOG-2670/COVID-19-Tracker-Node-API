@@ -1,0 +1,9 @@
+{
+  "id": 163,
+  "name": "Rwanda",
+  "iso_symbol": "RW",
+  "flag": "https://disease.sh/assets/img/flags/rw.png",
+  "confirmed": 21645,
+  "deaths": 306,
+  "recovered": 20001
+}

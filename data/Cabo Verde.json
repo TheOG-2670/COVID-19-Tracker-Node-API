@@ -1,0 +1,9 @@
+{
+  "id": 32,
+  "name": "Cabo Verde",
+  "iso_symbol": "CV",
+  "flag": "https://disease.sh/assets/img/flags/cv.png",
+  "confirmed": 17279,
+  "deaths": 168,
+  "recovered": 16191
+}

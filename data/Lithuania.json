@@ -1,0 +1,9 @@
+{
+  "id": 115,
+  "name": "Lithuania",
+  "iso_symbol": "LT",
+  "flag": "https://disease.sh/assets/img/flags/lt.png",
+  "confirmed": 215216,
+  "deaths": 3566,
+  "recovered": 198588
+}

@@ -1,0 +1,9 @@
+{
+  "id": 92,
+  "name": "Iceland",
+  "iso_symbol": "IS",
+  "flag": "https://disease.sh/assets/img/flags/is.png",
+  "confirmed": 6194,
+  "deaths": 29,
+  "recovered": 6056
+}

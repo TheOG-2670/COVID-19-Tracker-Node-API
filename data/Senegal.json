@@ -1,0 +1,9 @@
+{
+  "id": 175,
+  "name": "Senegal",
+  "iso_symbol": "SN",
+  "flag": "https://disease.sh/assets/img/flags/sn.png",
+  "confirmed": 38618,
+  "deaths": 1049,
+  "recovered": 37228
+}

@@ -1,0 +1,9 @@
+{
+  "id": 169,
+  "name": "Saint Pierre Miquelon",
+  "iso_symbol": "PM",
+  "flag": "https://disease.sh/assets/img/flags/pm.png",
+  "confirmed": 24,
+  "deaths": 0,
+  "recovered": 24
+}

@@ -1,0 +1,9 @@
+{
+  "id": 9,
+  "name": "Aruba",
+  "iso_symbol": "AW",
+  "flag": "https://disease.sh/assets/img/flags/aw.png",
+  "confirmed": 9374,
+  "deaths": 85,
+  "recovered": 8635
+}

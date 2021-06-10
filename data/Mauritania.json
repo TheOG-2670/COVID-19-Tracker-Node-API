@@ -1,0 +1,9 @@
+{
+  "id": 128,
+  "name": "Mauritania",
+  "iso_symbol": "MR",
+  "flag": "https://disease.sh/assets/img/flags/mr.png",
+  "confirmed": 17824,
+  "deaths": 449,
+  "recovered": 17072
+}

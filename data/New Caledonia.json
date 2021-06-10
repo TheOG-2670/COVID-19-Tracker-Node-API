@@ -1,0 +1,9 @@
+{
+  "id": 144,
+  "name": "New Caledonia",
+  "iso_symbol": "NC",
+  "flag": "https://disease.sh/assets/img/flags/nc.png",
+  "confirmed": 121,
+  "deaths": 0,
+  "recovered": 58
+}

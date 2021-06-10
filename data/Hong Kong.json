@@ -1,0 +1,9 @@
+{
+  "id": 90,
+  "name": "Hong Kong",
+  "iso_symbol": "HK",
+  "flag": "https://disease.sh/assets/img/flags/hk.png",
+  "confirmed": 11462,
+  "deaths": 205,
+  "recovered": 11075
+}

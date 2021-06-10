@@ -1,0 +1,9 @@
+{
+  "id": 180,
+  "name": "Sint Maarten",
+  "iso_symbol": "SX",
+  "flag": "https://disease.sh/assets/img/flags/sx.png",
+  "confirmed": 2134,
+  "deaths": 27,
+  "recovered": 2073
+}

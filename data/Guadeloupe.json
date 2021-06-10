@@ -1,0 +1,9 @@
+{
+  "id": 82,
+  "name": "Guadeloupe",
+  "iso_symbol": "GP",
+  "flag": "https://disease.sh/assets/img/flags/gp.png",
+  "confirmed": 11298,
+  "deaths": 165,
+  "recovered": 2242
+}

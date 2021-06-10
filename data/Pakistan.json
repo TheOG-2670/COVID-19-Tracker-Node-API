@@ -1,0 +1,9 @@
+{
+  "id": 151,
+  "name": "Pakistan",
+  "iso_symbol": "PK",
+  "flag": "https://disease.sh/assets/img/flags/pk.png",
+  "confirmed": 663200,
+  "deaths": 14356,
+  "recovered": 600278
+}

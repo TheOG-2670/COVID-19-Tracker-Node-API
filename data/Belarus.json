@@ -1,0 +1,9 @@
+{
+  "id": 17,
+  "name": "Belarus",
+  "iso_symbol": "BY",
+  "flag": "https://disease.sh/assets/img/flags/by.png",
+  "confirmed": 320594,
+  "deaths": 2237,
+  "recovered": 310983
+}

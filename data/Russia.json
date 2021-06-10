@@ -1,0 +1,9 @@
+{
+  "id": 162,
+  "name": "Russia",
+  "iso_symbol": "RU",
+  "flag": "https://disease.sh/assets/img/flags/ru.png",
+  "confirmed": 4536820,
+  "deaths": 98442,
+  "recovered": 4155996
+}

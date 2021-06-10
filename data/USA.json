@@ -1,0 +1,9 @@
+{
+  "id": 208,
+  "name": "USA",
+  "iso_symbol": "US",
+  "flag": "https://disease.sh/assets/img/flags/us.png",
+  "confirmed": 31095785,
+  "deaths": 564125,
+  "recovered": 23584780
+}

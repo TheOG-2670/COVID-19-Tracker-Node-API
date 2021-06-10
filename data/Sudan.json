@@ -1,0 +1,9 @@
+{
+  "id": 190,
+  "name": "Sudan",
+  "iso_symbol": "SD",
+  "flag": "https://disease.sh/assets/img/flags/sd.png",
+  "confirmed": 29825,
+  "deaths": 2041,
+  "recovered": 24079
+}

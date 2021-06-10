@@ -1,0 +1,9 @@
+{
+  "id": 85,
+  "name": "Guinea-Bissau",
+  "iso_symbol": "GW",
+  "flag": "https://disease.sh/assets/img/flags/gw.png",
+  "confirmed": 3634,
+  "deaths": 61,
+  "recovered": 2940
+}

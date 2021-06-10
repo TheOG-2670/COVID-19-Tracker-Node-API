@@ -1,0 +1,9 @@
+{
+  "id": 130,
+  "name": "Mayotte",
+  "iso_symbol": "YT",
+  "flag": "https://disease.sh/assets/img/flags/yt.png",
+  "confirmed": 19408,
+  "deaths": 161,
+  "recovered": 2964
+}

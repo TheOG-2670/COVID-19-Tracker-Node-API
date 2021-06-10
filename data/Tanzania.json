@@ -1,0 +1,9 @@
+{
+  "id": 198,
+  "name": "Tanzania",
+  "iso_symbol": "TZ",
+  "flag": "https://disease.sh/assets/img/flags/tz.png",
+  "confirmed": 509,
+  "deaths": 21,
+  "recovered": 183
+}

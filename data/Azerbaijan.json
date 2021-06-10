@@ -1,0 +1,9 @@
+{
+  "id": 12,
+  "name": "Azerbaijan",
+  "iso_symbol": "AZ",
+  "flag": "https://disease.sh/assets/img/flags/az.png",
+  "confirmed": 259476,
+  "deaths": 3538,
+  "recovered": 237338
+}

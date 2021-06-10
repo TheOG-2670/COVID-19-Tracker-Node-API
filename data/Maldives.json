@@ -1,0 +1,9 @@
+{
+  "id": 123,
+  "name": "Maldives",
+  "iso_symbol": "MV",
+  "flag": "https://disease.sh/assets/img/flags/mv.png",
+  "confirmed": 23838,
+  "deaths": 66,
+  "recovered": 20984
+}

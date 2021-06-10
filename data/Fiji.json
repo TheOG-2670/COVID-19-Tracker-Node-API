@@ -1,0 +1,9 @@
+{
+  "id": 68,
+  "name": "Fiji",
+  "iso_symbol": "FJ",
+  "flag": "https://disease.sh/assets/img/flags/fj.png",
+  "confirmed": 67,
+  "deaths": 2,
+  "recovered": 64
+}

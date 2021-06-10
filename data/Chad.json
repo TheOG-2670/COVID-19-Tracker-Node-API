@@ -1,0 +1,9 @@
+{
+  "id": 39,
+  "name": "Chad",
+  "iso_symbol": "TD",
+  "flag": "https://disease.sh/assets/img/flags/td.png",
+  "confirmed": 4523,
+  "deaths": 164,
+  "recovered": 4137
+}

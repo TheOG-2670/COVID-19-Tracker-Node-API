@@ -1,0 +1,9 @@
+{
+  "id": 131,
+  "name": "Mexico",
+  "iso_symbol": "MX",
+  "flag": "https://disease.sh/assets/img/flags/mx.png",
+  "confirmed": 2227842,
+  "deaths": 201826,
+  "recovered": 1765244
+}

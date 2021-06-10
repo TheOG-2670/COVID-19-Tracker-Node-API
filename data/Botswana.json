@@ -1,0 +1,9 @@
+{
+  "id": 25,
+  "name": "Botswana",
+  "iso_symbol": "BW",
+  "flag": "https://disease.sh/assets/img/flags/bw.png",
+  "confirmed": 39848,
+  "deaths": 568,
+  "recovered": 36958
+}

@@ -1,0 +1,9 @@
+{
+  "id": 134,
+  "name": "Monaco",
+  "iso_symbol": "MC",
+  "flag": "https://disease.sh/assets/img/flags/mc.png",
+  "confirmed": 2282,
+  "deaths": 28,
+  "recovered": 2110
+}

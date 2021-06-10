@@ -1,0 +1,9 @@
+{
+  "id": 24,
+  "name": "Bosnia",
+  "iso_symbol": "BA",
+  "flag": "https://disease.sh/assets/img/flags/ba.png",
+  "confirmed": 167654,
+  "deaths": 6519,
+  "recovered": 129918
+}

@@ -1,0 +1,9 @@
+{
+  "id": 103,
+  "name": "Jordan",
+  "iso_symbol": "JO",
+  "flag": "https://disease.sh/assets/img/flags/jo.png",
+  "confirmed": 605007,
+  "deaths": 6747,
+  "recovered": 503952
+}

@@ -1,0 +1,9 @@
+{
+  "id": 194,
+  "name": "Switzerland",
+  "iso_symbol": "CH",
+  "flag": "https://disease.sh/assets/img/flags/ch.png",
+  "confirmed": 598713,
+  "deaths": 10322,
+  "recovered": 544729
+}

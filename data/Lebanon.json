@@ -1,0 +1,9 @@
+{
+  "id": 110,
+  "name": "Lebanon",
+  "iso_symbol": "LB",
+  "flag": "https://disease.sh/assets/img/flags/lb.png",
+  "confirmed": 465007,
+  "deaths": 6184,
+  "recovered": 366639
+}

@@ -1,0 +1,9 @@
+{
+  "id": 42,
+  "name": "China",
+  "iso_symbol": "CN",
+  "flag": "https://disease.sh/assets/img/flags/cn.png",
+  "confirmed": 90190,
+  "deaths": 4636,
+  "recovered": 85381
+}

@@ -1,0 +1,9 @@
+{
+  "id": 114,
+  "name": "Liechtenstein",
+  "iso_symbol": "LI",
+  "flag": "https://disease.sh/assets/img/flags/li.png",
+  "confirmed": 2664,
+  "deaths": 56,
+  "recovered": 2562
+}

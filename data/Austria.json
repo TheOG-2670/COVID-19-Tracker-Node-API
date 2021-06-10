@@ -1,0 +1,9 @@
+{
+  "id": 11,
+  "name": "Austria",
+  "iso_symbol": "AT",
+  "flag": "https://disease.sh/assets/img/flags/at.png",
+  "confirmed": 542542,
+  "deaths": 9308,
+  "recovered": 497816
+}

@@ -1,0 +1,9 @@
+{
+  "id": 141,
+  "name": "Namibia",
+  "iso_symbol": "NA",
+  "flag": "https://disease.sh/assets/img/flags/na.png",
+  "confirmed": 44051,
+  "deaths": 520,
+  "recovered": 41676
+}

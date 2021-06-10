@@ -1,0 +1,9 @@
+{
+  "id": 70,
+  "name": "France",
+  "iso_symbol": "FR",
+  "flag": "https://disease.sh/assets/img/flags/fr.png",
+  "confirmed": 4585385,
+  "deaths": 95337,
+  "recovered": 292796
+}

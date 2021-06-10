@@ -1,0 +1,9 @@
+{
+  "id": 41,
+  "name": "Chile",
+  "iso_symbol": "CL",
+  "flag": "https://disease.sh/assets/img/flags/cl.png",
+  "confirmed": 989492,
+  "deaths": 23107,
+  "recovered": 924612
+}

@@ -1,0 +1,9 @@
+{
+  "id": 22,
+  "name": "Bhutan",
+  "iso_symbol": "BT",
+  "flag": "https://disease.sh/assets/img/flags/bt.png",
+  "confirmed": 872,
+  "deaths": 1,
+  "recovered": 867
+}

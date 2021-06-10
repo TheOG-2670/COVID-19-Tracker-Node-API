@@ -1,0 +1,9 @@
+{
+  "id": 50,
+  "name": "Cyprus",
+  "iso_symbol": "CY",
+  "flag": "https://disease.sh/assets/img/flags/cy.png",
+  "confirmed": 45430,
+  "deaths": 256,
+  "recovered": 2057
+}

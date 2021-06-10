@@ -1,0 +1,9 @@
+{
+  "id": 187,
+  "name": "Spain",
+  "iso_symbol": "ES",
+  "flag": "https://disease.sh/assets/img/flags/es.png",
+  "confirmed": 3275819,
+  "deaths": 75305,
+  "recovered": 3042352
+}

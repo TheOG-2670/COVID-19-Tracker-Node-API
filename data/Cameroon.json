@@ -1,0 +1,9 @@
+{
+  "id": 34,
+  "name": "Cameroon",
+  "iso_symbol": "CM",
+  "flag": "https://disease.sh/assets/img/flags/cm.png",
+  "confirmed": 47669,
+  "deaths": 721,
+  "recovered": 35261
+}

@@ -1,0 +1,9 @@
+{
+  "id": 100,
+  "name": "Italy",
+  "iso_symbol": "IT",
+  "flag": "https://disease.sh/assets/img/flags/it.png",
+  "confirmed": 3561012,
+  "deaths": 108879,
+  "recovered": 2889301
+}

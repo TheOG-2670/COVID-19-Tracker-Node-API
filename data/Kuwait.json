@@ -1,0 +1,9 @@
+{
+  "id": 106,
+  "name": "Kuwait",
+  "iso_symbol": "KW",
+  "flag": "https://disease.sh/assets/img/flags/kw.png",
+  "confirmed": 230821,
+  "deaths": 1308,
+  "recovered": 215250
+}

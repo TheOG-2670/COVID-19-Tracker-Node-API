@@ -1,0 +1,9 @@
+{
+  "id": 69,
+  "name": "Finland",
+  "iso_symbol": "FI",
+  "flag": "https://disease.sh/assets/img/flags/fi.png",
+  "confirmed": 76845,
+  "deaths": 826,
+  "recovered": 46000
+}

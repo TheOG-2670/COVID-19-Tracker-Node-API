@@ -1,0 +1,9 @@
+{
+  "id": 145,
+  "name": "New Zealand",
+  "iso_symbol": "NZ",
+  "flag": "https://disease.sh/assets/img/flags/nz.png",
+  "confirmed": 2495,
+  "deaths": 26,
+  "recovered": 2389
+}

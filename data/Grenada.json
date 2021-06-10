@@ -1,0 +1,9 @@
+{
+  "id": 81,
+  "name": "Grenada",
+  "iso_symbol": "GD",
+  "flag": "https://disease.sh/assets/img/flags/gd.png",
+  "confirmed": 155,
+  "deaths": 1,
+  "recovered": 152
+}

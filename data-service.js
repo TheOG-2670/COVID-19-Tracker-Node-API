@@ -2,9 +2,9 @@ const fs=require('fs')
 const path=require('path')
 const fetch=require('node-fetch')
 
-function writeToCache(countries)
+function writeToCache(country)
 {
-    fs.writeFileSync(path.join(__dirname + '/data/country-store.json'), JSON.stringify(countries, null, 2), (error) => {
+    fs.writeFileSync(path.join(__dirname + '/data/'+(country.name==='Global'?'Global':country.name)+'.json'), JSON.stringify(country, null, 2), (error) => {
         if (error)
             console.log(error)
     })
@@ -12,15 +12,11 @@ function writeToCache(countries)
 
 module.exports.initData = function()
 {
-    var countries = []
     fetch('https://disease.sh/v3/covid-19/countries')
         .then(response => {
             return response.json()
         })
         .then(data => {
-            countries.push({
-                name: "Global"
-            })
             data.forEach((country, i) => {
                 var countryData = {
                     id: i,
@@ -31,67 +27,58 @@ module.exports.initData = function()
                     deaths: country.deaths,
                     recovered: country.recovered
                 }
-                countries.push(countryData)
+                writeToCache(countryData)
             })
-            writeToCache(countries)
         })
 }
 
 //.splice to replace data in array -> parameters: index, number of elements, object
 //.find to find and return object/element in array -> parameters: lambda condition
 //.indexOf to find index of specific object/element in array -> parameters: element/object
-async function updateGlobalData(countries)
+async function updateGlobalData()
 {
     var globalData = await fetch('https://disease.sh/v3/covid-19/all')
     var globalResponse = await globalData.json();
 
-    var world = countries.find(c=>c.name==="Global")
-    world.confirmed=globalResponse.cases
-    world.deaths=globalResponse.deaths
-    world.recovered=globalResponse.recovered
-    countries.splice(countries.indexOf(world), 1, world)
-
-    writeToCache(countries)
+    var world={
+        name:'Global',
+        confirmed:globalResponse.cases,
+        deaths:globalResponse.deaths,
+        recovered:globalResponse.recovered
+    }
+    writeToCache(world)
 }
 
-async function updateCountryData(countries)
+
+async function updateCountryData(country)
 {
     var diacritics='[çôé]'
-    for (var i = 0; i < countries.length; i++) 
+    if(!country.name.match(diacritics))
     {
-        if(!countries[i].name.match(diacritics))
-        {
-            var countryData = await fetch('https://disease.sh/v3/covid-19/countries/' + countries[i].name + '?strict=true')
+            var countryData = await fetch('https://disease.sh/v3/covid-19/countries/' + country.name + '?strict=true')
             var countryResponse = await countryData.json();
             // console.log(countryResponse)
             
-            countries[i].confirmed = countryResponse.cases
-            countries[i].deaths = countryResponse.deaths
-            countries[i].recovered = countryResponse.recovered
-            countries.splice(i, 1, countries[i])
-        }
+            country.confirmed = countryResponse.cases
+            country.deaths = countryResponse.deaths
+            country.recovered = countryResponse.recovered
     }
-
-    writeToCache(countries)
+    writeToCache(country)
 }
-    
+
 module.exports.updateCovidData = function (countries) {
-    setTimeout(()=>{
-        updateGlobalData(countries)
-    },1000)
+    updateGlobalData()
     updateCountryData(countries)
 }
 
-module.exports.getCountryData = async function(name, callback) {
-    var countryData = await fetch('https://disease.sh/v3/covid-19/countries/' + name + '?strict=true')
-    var countryResponse = await countryData.json();
-    console.log(countryResponse)
-    callback(countryResponse)
+
+module.exports.getGlobalCovidData = function () {
+    var cache = JSON.parse(fs.readFileSync(path.join(__dirname + "/data/Global.json")))
+    return cache
 }
 
-module.exports.getCovidData = function () {
-    var cache = JSON.parse(fs.readFileSync(path.join(__dirname + "/data/country-store.json")))
-    // console.log(cache)
-    this.updateCovidData(cache)
-    return cache
+//read from cache
+module.exports.getCountryData = async function(name, callback) {
+    var data=JSON.parse(fs.readFileSync(path.join(__dirname + "/data/"+name+".json")))
+    callback(data)
 }

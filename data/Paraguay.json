@@ -1,0 +1,9 @@
+{
+  "id": 155,
+  "name": "Paraguay",
+  "iso_symbol": "PY",
+  "flag": "https://disease.sh/assets/img/flags/py.png",
+  "confirmed": 210425,
+  "deaths": 4113,
+  "recovered": 172386
+}

@@ -1,0 +1,9 @@
+{
+  "id": 15,
+  "name": "Bangladesh",
+  "iso_symbol": "BD",
+  "flag": "https://disease.sh/assets/img/flags/bd.png",
+  "confirmed": 605937,
+  "deaths": 8994,
+  "recovered": 539880
+}

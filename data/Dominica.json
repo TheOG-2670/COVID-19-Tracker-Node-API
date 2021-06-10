@@ -1,0 +1,9 @@
+{
+  "id": 57,
+  "name": "Dominica",
+  "iso_symbol": "DM",
+  "flag": "https://disease.sh/assets/img/flags/dm.png",
+  "confirmed": 161,
+  "deaths": 0,
+  "recovered": 153
+}

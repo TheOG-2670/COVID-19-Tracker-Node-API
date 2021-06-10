@@ -1,0 +1,9 @@
+{
+  "id": 129,
+  "name": "Mauritius",
+  "iso_symbol": "MU",
+  "flag": "https://disease.sh/assets/img/flags/mu.png",
+  "confirmed": 996,
+  "deaths": 10,
+  "recovered": 643
+}

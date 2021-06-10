@@ -1,0 +1,9 @@
+{
+  "id": 120,
+  "name": "Madagascar",
+  "iso_symbol": "MG",
+  "flag": "https://disease.sh/assets/img/flags/mg.png",
+  "confirmed": 24264,
+  "deaths": 403,
+  "recovered": 21776
+}

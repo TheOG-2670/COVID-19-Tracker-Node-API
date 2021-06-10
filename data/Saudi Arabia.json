@@ -1,0 +1,9 @@
+{
+  "id": 174,
+  "name": "Saudi Arabia",
+  "iso_symbol": "SA",
+  "flag": "https://disease.sh/assets/img/flags/sa.png",
+  "confirmed": 389422,
+  "deaths": 6663,
+  "recovered": 377714
+}

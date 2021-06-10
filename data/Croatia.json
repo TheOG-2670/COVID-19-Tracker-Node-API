@@ -1,0 +1,9 @@
+{
+  "id": 47,
+  "name": "Croatia",
+  "iso_symbol": "HR",
+  "flag": "https://disease.sh/assets/img/flags/hr.png",
+  "confirmed": 269009,
+  "deaths": 5928,
+  "recovered": 253459
+}

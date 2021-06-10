@@ -1,0 +1,9 @@
+{
+  "id": 101,
+  "name": "Jamaica",
+  "iso_symbol": "JM",
+  "flag": "https://disease.sh/assets/img/flags/jm.png",
+  "confirmed": 38848,
+  "deaths": 587,
+  "recovered": 17474
+}

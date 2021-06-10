@@ -1,0 +1,9 @@
+{
+  "id": 76,
+  "name": "Germany",
+  "iso_symbol": "DE",
+  "flag": "https://disease.sh/assets/img/flags/de.png",
+  "confirmed": 2809510,
+  "deaths": 76833,
+  "recovered": 2507900
+}

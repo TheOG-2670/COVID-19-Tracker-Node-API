@@ -1,0 +1,9 @@
+{
+  "id": 7,
+  "name": "Argentina",
+  "iso_symbol": "AR",
+  "flag": "https://disease.sh/assets/img/flags/ar.png",
+  "confirmed": 2332765,
+  "deaths": 55736,
+  "recovered": 2095853
+}

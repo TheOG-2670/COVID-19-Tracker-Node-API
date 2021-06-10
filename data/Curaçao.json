@@ -1,0 +1,9 @@
+{
+  "id": 49,
+  "name": "Curaçao",
+  "iso_symbol": "CW",
+  "flag": "https://disease.sh/assets/img/flags/cw.png",
+  "confirmed": 7740,
+  "deaths": 33,
+  "recovered": 5159
+}

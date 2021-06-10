@@ -1,0 +1,9 @@
+{
+  "id": 156,
+  "name": "Peru",
+  "iso_symbol": "PE",
+  "flag": "https://disease.sh/assets/img/flags/pe.png",
+  "confirmed": 1533121,
+  "deaths": 51635,
+  "recovered": 1451112
+}

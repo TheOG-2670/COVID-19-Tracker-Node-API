@@ -1,0 +1,9 @@
+{
+  "id": 87,
+  "name": "Haiti",
+  "iso_symbol": "HT",
+  "flag": "https://disease.sh/assets/img/flags/ht.png",
+  "confirmed": 12760,
+  "deaths": 251,
+  "recovered": 10938
+}

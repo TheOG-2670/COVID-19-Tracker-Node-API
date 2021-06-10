@@ -1,0 +1,9 @@
+{
+  "id": 172,
+  "name": "San Marino",
+  "iso_symbol": "SM",
+  "flag": "https://disease.sh/assets/img/flags/sm.png",
+  "confirmed": 4678,
+  "deaths": 84,
+  "recovered": 4089
+}

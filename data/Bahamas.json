@@ -1,0 +1,9 @@
+{
+  "id": 13,
+  "name": "Bahamas",
+  "iso_symbol": "BS",
+  "flag": "https://disease.sh/assets/img/flags/bs.png",
+  "confirmed": 9119,
+  "deaths": 188,
+  "recovered": 8597
+}

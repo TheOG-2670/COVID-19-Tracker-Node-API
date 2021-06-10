@@ -1,0 +1,9 @@
+{
+  "id": 71,
+  "name": "French Guiana",
+  "iso_symbol": "GF",
+  "flag": "https://disease.sh/assets/img/flags/gf.png",
+  "confirmed": 16922,
+  "deaths": 89,
+  "recovered": 9995
+}

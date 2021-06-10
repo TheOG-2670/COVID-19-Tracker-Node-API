@@ -1,0 +1,9 @@
+{
+  "id": 153,
+  "name": "Panama",
+  "iso_symbol": "PA",
+  "flag": "https://disease.sh/assets/img/flags/pa.png",
+  "confirmed": 354085,
+  "deaths": 6103,
+  "recovered": 343057
+}

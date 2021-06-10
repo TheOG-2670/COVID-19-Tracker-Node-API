@@ -1,0 +1,9 @@
+{
+  "id": 204,
+  "name": "Turkey",
+  "iso_symbol": "TR",
+  "flag": "https://disease.sh/assets/img/flags/tr.png",
+  "confirmed": 3277880,
+  "deaths": 31385,
+  "recovered": 2995033
+}

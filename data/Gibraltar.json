@@ -1,0 +1,9 @@
+{
+  "id": 78,
+  "name": "Gibraltar",
+  "iso_symbol": "GI",
+  "flag": "https://disease.sh/assets/img/flags/gi.png",
+  "confirmed": 4274,
+  "deaths": 94,
+  "recovered": 4167
+}

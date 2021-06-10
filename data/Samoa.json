@@ -1,0 +1,9 @@
+{
+  "id": 171,
+  "name": "Samoa",
+  "iso_symbol": "WS",
+  "flag": "https://disease.sh/assets/img/flags/ws.png",
+  "confirmed": 3,
+  "deaths": 0,
+  "recovered": 2
+}

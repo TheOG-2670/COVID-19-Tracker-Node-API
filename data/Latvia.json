@@ -1,0 +1,9 @@
+{
+  "id": 109,
+  "name": "Latvia",
+  "iso_symbol": "LV",
+  "flag": "https://disease.sh/assets/img/flags/lv.png",
+  "confirmed": 101733,
+  "deaths": 1893,
+  "recovered": 92825
+}

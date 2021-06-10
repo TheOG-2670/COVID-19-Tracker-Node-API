@@ -1,0 +1,9 @@
+{
+  "id": 29,
+  "name": "Bulgaria",
+  "iso_symbol": "BG",
+  "flag": "https://disease.sh/assets/img/flags/bg.png",
+  "confirmed": 338426,
+  "deaths": 13068,
+  "recovered": 255692
+}

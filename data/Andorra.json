@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "name": "Andorra",
+  "iso_symbol": "AD",
+  "flag": "https://disease.sh/assets/img/flags/ad.png",
+  "confirmed": 11944,
+  "deaths": 115,
+  "recovered": 11276
+}

@@ -1,0 +1,9 @@
+{
+  "id": 86,
+  "name": "Guyana",
+  "iso_symbol": "GY",
+  "flag": "https://disease.sh/assets/img/flags/gy.png",
+  "confirmed": 10192,
+  "deaths": 231,
+  "recovered": 8998
+}

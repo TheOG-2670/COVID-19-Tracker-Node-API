@@ -1,0 +1,9 @@
+{
+  "id": 158,
+  "name": "Poland",
+  "iso_symbol": "PL",
+  "flag": "https://disease.sh/assets/img/flags/pl.png",
+  "confirmed": 2288826,
+  "deaths": 52392,
+  "recovered": 1848199
+}

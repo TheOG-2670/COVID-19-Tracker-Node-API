@@ -1,0 +1,9 @@
+{
+  "id": 65,
+  "name": "Ethiopia",
+  "iso_symbol": "ET",
+  "flag": "https://disease.sh/assets/img/flags/et.png",
+  "confirmed": 204521,
+  "deaths": 2841,
+  "recovered": 156625
+}

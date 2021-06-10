@@ -1,0 +1,9 @@
+{
+  "id": 121,
+  "name": "Malawi",
+  "iso_symbol": "MW",
+  "flag": "https://disease.sh/assets/img/flags/mw.png",
+  "confirmed": 33525,
+  "deaths": 1116,
+  "recovered": 30156
+}

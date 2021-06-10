@@ -1,0 +1,9 @@
+{
+  "id": 147,
+  "name": "Niger",
+  "iso_symbol": "NE",
+  "flag": "https://disease.sh/assets/img/flags/ne.png",
+  "confirmed": 4987,
+  "deaths": 185,
+  "recovered": 4586
+}

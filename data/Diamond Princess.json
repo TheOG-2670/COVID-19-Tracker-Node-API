@@ -1,0 +1,9 @@
+{
+  "id": 55,
+  "name": "Diamond Princess",
+  "iso_symbol": null,
+  "flag": "https://disease.sh/assets/img/flags/unknown.png",
+  "confirmed": 712,
+  "deaths": 13,
+  "recovered": 699
+}

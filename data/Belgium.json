@@ -1,0 +1,9 @@
+{
+  "id": 18,
+  "name": "Belgium",
+  "iso_symbol": "BE",
+  "flag": "https://disease.sh/assets/img/flags/be.png",
+  "confirmed": 872936,
+  "deaths": 22921,
+  "recovered": 56720
+}

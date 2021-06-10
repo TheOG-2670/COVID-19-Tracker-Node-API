@@ -1,0 +1,9 @@
+{
+  "id": 217,
+  "name": "Western Sahara",
+  "iso_symbol": "EH",
+  "flag": "https://disease.sh/assets/img/flags/eh.png",
+  "confirmed": 10,
+  "deaths": 1,
+  "recovered": 8
+}

@@ -1,0 +1,9 @@
+{
+  "id": 40,
+  "name": "Channel Islands",
+  "iso_symbol": "JE",
+  "flag": "https://disease.sh/assets/img/flags/je.png",
+  "confirmed": 4049,
+  "deaths": 86,
+  "recovered": 3956
+}

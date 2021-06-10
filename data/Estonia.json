@@ -1,0 +1,9 @@
+{
+  "id": 64,
+  "name": "Estonia",
+  "iso_symbol": "EE",
+  "flag": "https://disease.sh/assets/img/flags/ee.png",
+  "confirmed": 105416,
+  "deaths": 896,
+  "recovered": 80092
+}

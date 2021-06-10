@@ -1,0 +1,9 @@
+{
+  "id": 14,
+  "name": "Bahrain",
+  "iso_symbol": "BH",
+  "flag": "https://disease.sh/assets/img/flags/bh.png",
+  "confirmed": 143574,
+  "deaths": 517,
+  "recovered": 134442
+}

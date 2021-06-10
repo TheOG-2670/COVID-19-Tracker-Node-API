@@ -1,0 +1,9 @@
+{
+  "id": 207,
+  "name": "UK",
+  "iso_symbol": "GB",
+  "flag": "https://disease.sh/assets/img/flags/gb.png",
+  "confirmed": 4341736,
+  "deaths": 126670,
+  "recovered": 3835218
+}

@@ -1,0 +1,9 @@
+{
+  "id": 146,
+  "name": "Nicaragua",
+  "iso_symbol": "NI",
+  "flag": "https://disease.sh/assets/img/flags/ni.png",
+  "confirmed": 6629,
+  "deaths": 177,
+  "recovered": 4225
+}

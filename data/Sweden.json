@@ -1,0 +1,9 @@
+{
+  "id": 193,
+  "name": "Sweden",
+  "iso_symbol": "SE",
+  "flag": "https://disease.sh/assets/img/flags/se.png",
+  "confirmed": 796445,
+  "deaths": 13430,
+  "recovered": 0
+}

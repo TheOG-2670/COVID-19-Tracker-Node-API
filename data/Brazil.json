@@ -1,0 +1,9 @@
+{
+  "id": 26,
+  "name": "Brazil",
+  "iso_symbol": "BR",
+  "flag": "https://disease.sh/assets/img/flags/br.png",
+  "confirmed": 12664058,
+  "deaths": 317936,
+  "recovered": 11074483
+}

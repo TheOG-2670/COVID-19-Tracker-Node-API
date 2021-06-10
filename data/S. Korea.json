@@ -1,0 +1,9 @@
+{
+  "id": 165,
+  "name": "S. Korea",
+  "iso_symbol": "KR",
+  "flag": "https://disease.sh/assets/img/flags/kr.png",
+  "confirmed": 102582,
+  "deaths": 1729,
+  "recovered": 94563
+}

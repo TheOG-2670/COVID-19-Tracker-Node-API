@@ -1,0 +1,9 @@
+{
+  "id": 138,
+  "name": "Morocco",
+  "iso_symbol": "MA",
+  "flag": "https://disease.sh/assets/img/flags/ma.png",
+  "confirmed": 495421,
+  "deaths": 8813,
+  "recovered": 483165
+}

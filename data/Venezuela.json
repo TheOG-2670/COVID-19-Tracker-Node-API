@@ -1,0 +1,9 @@
+{
+  "id": 214,
+  "name": "Venezuela",
+  "iso_symbol": "VE",
+  "flag": "https://disease.sh/assets/img/flags/ve.png",
+  "confirmed": 157943,
+  "deaths": 1577,
+  "recovered": 146196
+}

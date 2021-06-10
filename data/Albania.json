@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Albania",
+  "iso_symbol": "AL",
+  "flag": "https://disease.sh/assets/img/flags/al.png",
+  "confirmed": 124723,
+  "deaths": 2227,
+  "recovered": 90617
+}

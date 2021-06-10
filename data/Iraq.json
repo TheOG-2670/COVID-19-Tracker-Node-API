@@ -1,0 +1,9 @@
+{
+  "id": 96,
+  "name": "Iraq",
+  "iso_symbol": "IQ",
+  "flag": "https://disease.sh/assets/img/flags/iq.png",
+  "confirmed": 844260,
+  "deaths": 14286,
+  "recovered": 755350
+}

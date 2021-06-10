@@ -1,0 +1,9 @@
+{
+  "id": 111,
+  "name": "Lesotho",
+  "iso_symbol": "LS",
+  "flag": "https://disease.sh/assets/img/flags/ls.png",
+  "confirmed": 10686,
+  "deaths": 315,
+  "recovered": 4471
+}

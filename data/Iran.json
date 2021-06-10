@@ -1,0 +1,9 @@
+{
+  "id": 95,
+  "name": "Iran",
+  "iso_symbol": "IR",
+  "flag": "https://disease.sh/assets/img/flags/ir.png",
+  "confirmed": 1875234,
+  "deaths": 62569,
+  "recovered": 1608807
+}

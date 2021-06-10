@@ -1,0 +1,9 @@
+{
+  "id": 218,
+  "name": "Yemen",
+  "iso_symbol": "YE",
+  "flag": "https://disease.sh/assets/img/flags/ye.png",
+  "confirmed": 4247,
+  "deaths": 882,
+  "recovered": 1667
+}

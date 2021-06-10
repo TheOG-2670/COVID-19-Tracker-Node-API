@@ -1,0 +1,9 @@
+{
+  "id": 83,
+  "name": "Guatemala",
+  "iso_symbol": "GT",
+  "flag": "https://disease.sh/assets/img/flags/gt.png",
+  "confirmed": 193834,
+  "deaths": 6823,
+  "recovered": 176613
+}

@@ -1,0 +1,9 @@
+{
+  "id": 186,
+  "name": "South Sudan",
+  "iso_symbol": "SS",
+  "flag": "https://disease.sh/assets/img/flags/ss.png",
+  "confirmed": 10119,
+  "deaths": 108,
+  "recovered": 9594
+}

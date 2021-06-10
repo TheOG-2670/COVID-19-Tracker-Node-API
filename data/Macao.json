@@ -1,0 +1,9 @@
+{
+  "id": 118,
+  "name": "Macao",
+  "iso_symbol": "MO",
+  "flag": "https://disease.sh/assets/img/flags/mo.png",
+  "confirmed": 48,
+  "deaths": 0,
+  "recovered": 48
+}

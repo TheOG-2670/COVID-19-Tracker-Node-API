@@ -1,0 +1,9 @@
+{
+  "id": 67,
+  "name": "Faroe Islands",
+  "iso_symbol": "FO",
+  "flag": "https://disease.sh/assets/img/flags/fo.png",
+  "confirmed": 661,
+  "deaths": 1,
+  "recovered": 660
+}

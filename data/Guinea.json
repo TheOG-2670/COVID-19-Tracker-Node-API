@@ -1,0 +1,9 @@
+{
+  "id": 84,
+  "name": "Guinea",
+  "iso_symbol": "GN",
+  "flag": "https://disease.sh/assets/img/flags/gn.png",
+  "confirmed": 19793,
+  "deaths": 125,
+  "recovered": 16547
+}

@@ -1,0 +1,9 @@
+{
+  "id": 63,
+  "name": "Eritrea",
+  "iso_symbol": "ER",
+  "flag": "https://disease.sh/assets/img/flags/er.png",
+  "confirmed": 3279,
+  "deaths": 9,
+  "recovered": 3029
+}

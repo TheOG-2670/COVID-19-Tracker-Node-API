@@ -1,0 +1,9 @@
+{
+  "id": 51,
+  "name": "Czechia",
+  "iso_symbol": "CZ",
+  "flag": "https://disease.sh/assets/img/flags/cz.png",
+  "confirmed": 1523668,
+  "deaths": 26222,
+  "recovered": 1354424
+}

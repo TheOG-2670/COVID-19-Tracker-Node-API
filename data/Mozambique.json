@@ -1,0 +1,9 @@
+{
+  "id": 139,
+  "name": "Mozambique",
+  "iso_symbol": "MZ",
+  "flag": "https://disease.sh/assets/img/flags/mz.png",
+  "confirmed": 67292,
+  "deaths": 769,
+  "recovered": 55371
+}

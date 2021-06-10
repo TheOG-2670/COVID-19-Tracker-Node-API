@@ -1,0 +1,9 @@
+{
+  "id": 125,
+  "name": "Malta",
+  "iso_symbol": "MT",
+  "flag": "https://disease.sh/assets/img/flags/mt.png",
+  "confirmed": 28993,
+  "deaths": 390,
+  "recovered": 27704
+}

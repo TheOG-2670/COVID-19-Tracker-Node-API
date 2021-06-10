@@ -1,0 +1,9 @@
+{
+  "id": 164,
+  "name": "Réunion",
+  "iso_symbol": "RE",
+  "flag": "https://disease.sh/assets/img/flags/re.png",
+  "confirmed": 16586,
+  "deaths": 115,
+  "recovered": 14828
+}

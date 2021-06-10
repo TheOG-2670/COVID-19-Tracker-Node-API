@@ -1,0 +1,9 @@
+{
+  "id": 135,
+  "name": "Mongolia",
+  "iso_symbol": "MN",
+  "flag": "https://disease.sh/assets/img/flags/mn.png",
+  "confirmed": 8070,
+  "deaths": 6,
+  "recovered": 4835
+}

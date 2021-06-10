@@ -1,0 +1,9 @@
+{
+  "id": 179,
+  "name": "Singapore",
+  "iso_symbol": "SG",
+  "flag": "https://disease.sh/assets/img/flags/sg.png",
+  "confirmed": 60347,
+  "deaths": 30,
+  "recovered": 60138
+}

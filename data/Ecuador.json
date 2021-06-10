@@ -1,0 +1,9 @@
+{
+  "id": 59,
+  "name": "Ecuador",
+  "iso_symbol": "EC",
+  "flag": "https://disease.sh/assets/img/flags/ec.png",
+  "confirmed": 327325,
+  "deaths": 16780,
+  "recovered": 281684
+}

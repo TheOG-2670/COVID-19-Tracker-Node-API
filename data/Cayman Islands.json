@@ -1,0 +1,9 @@
+{
+  "id": 37,
+  "name": "Cayman Islands",
+  "iso_symbol": "KY",
+  "flag": "https://disease.sh/assets/img/flags/ky.png",
+  "confirmed": 499,
+  "deaths": 2,
+  "recovered": 462
+}

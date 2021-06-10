@@ -1,0 +1,9 @@
+{
+  "id": 58,
+  "name": "Dominican Republic",
+  "iso_symbol": "DO",
+  "flag": "https://disease.sh/assets/img/flags/do.png",
+  "confirmed": 252384,
+  "deaths": 3317,
+  "recovered": 211744
+}

@@ -1,0 +1,9 @@
+{
+  "id": 54,
+  "name": "Denmark",
+  "iso_symbol": "DK",
+  "flag": "https://disease.sh/assets/img/flags/dk.png",
+  "confirmed": 229902,
+  "deaths": 2417,
+  "recovered": 218246
+}

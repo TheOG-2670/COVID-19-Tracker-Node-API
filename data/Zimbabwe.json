@@ -1,0 +1,9 @@
+{
+  "id": 220,
+  "name": "Zimbabwe",
+  "iso_symbol": "ZW",
+  "flag": "https://disease.sh/assets/img/flags/zw.png",
+  "confirmed": 36839,
+  "deaths": 1520,
+  "recovered": 34617
+}

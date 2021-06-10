@@ -1,0 +1,9 @@
+{
+  "id": 60,
+  "name": "Egypt",
+  "iso_symbol": "EG",
+  "flag": "https://disease.sh/assets/img/flags/eg.png",
+  "confirmed": 201432,
+  "deaths": 11956,
+  "recovered": 154194
+}

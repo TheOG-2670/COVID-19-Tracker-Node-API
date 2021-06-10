@@ -1,0 +1,9 @@
+{
+  "id": 10,
+  "name": "Australia",
+  "iso_symbol": "AU",
+  "flag": "https://disease.sh/assets/img/flags/au.png",
+  "confirmed": 29293,
+  "deaths": 909,
+  "recovered": 26277
+}

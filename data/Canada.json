@@ -1,0 +1,9 @@
+{
+  "id": 35,
+  "name": "Canada",
+  "iso_symbol": "CA",
+  "flag": "https://disease.sh/assets/img/flags/ca.png",
+  "confirmed": 974924,
+  "deaths": 22921,
+  "recovered": 905814
+}

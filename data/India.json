@@ -1,0 +1,9 @@
+{
+  "id": 93,
+  "name": "India",
+  "iso_symbol": "IN",
+  "flag": "https://disease.sh/assets/img/flags/in.png",
+  "confirmed": 12148405,
+  "deaths": 162502,
+  "recovered": 11432029
+}

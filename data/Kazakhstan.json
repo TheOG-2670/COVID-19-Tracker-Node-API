@@ -1,0 +1,9 @@
+{
+  "id": 104,
+  "name": "Kazakhstan",
+  "iso_symbol": "KZ",
+  "flag": "https://disease.sh/assets/img/flags/kz.png",
+  "confirmed": 243318,
+  "deaths": 3029,
+  "recovered": 218031
+}

@@ -1,0 +1,9 @@
+{
+  "id": 98,
+  "name": "Isle of Man",
+  "iso_symbol": "IM",
+  "flag": "https://disease.sh/assets/img/flags/im.png",
+  "confirmed": 1566,
+  "deaths": 29,
+  "recovered": 1124
+}

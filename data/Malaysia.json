@@ -1,0 +1,9 @@
+{
+  "id": 122,
+  "name": "Malaysia",
+  "iso_symbol": "MY",
+  "flag": "https://disease.sh/assets/img/flags/my.png",
+  "confirmed": 344018,
+  "deaths": 1265,
+  "recovered": 328554
+}

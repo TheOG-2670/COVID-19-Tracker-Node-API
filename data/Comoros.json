@@ -1,0 +1,9 @@
+{
+  "id": 44,
+  "name": "Comoros",
+  "iso_symbol": "KM",
+  "flag": "https://disease.sh/assets/img/flags/km.png",
+  "confirmed": 3696,
+  "deaths": 146,
+  "recovered": 3525
+}

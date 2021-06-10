@@ -1,0 +1,9 @@
+{
+  "id": 91,
+  "name": "Hungary",
+  "iso_symbol": "HU",
+  "flag": "https://disease.sh/assets/img/flags/hu.png",
+  "confirmed": 645733,
+  "deaths": 20435,
+  "recovered": 402964
+}

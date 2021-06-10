@@ -1,0 +1,9 @@
+{
+  "id": 213,
+  "name": "Vanuatu",
+  "iso_symbol": "VU",
+  "flag": "https://disease.sh/assets/img/flags/vu.png",
+  "confirmed": 3,
+  "deaths": 0,
+  "recovered": 1
+}

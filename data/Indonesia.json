@@ -1,0 +1,9 @@
+{
+  "id": 94,
+  "name": "Indonesia",
+  "iso_symbol": "ID",
+  "flag": "https://disease.sh/assets/img/flags/id.png",
+  "confirmed": 1505775,
+  "deaths": 40754,
+  "recovered": 1342695
+}

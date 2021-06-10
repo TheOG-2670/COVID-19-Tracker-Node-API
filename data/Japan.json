@@ -1,0 +1,9 @@
+{
+  "id": 102,
+  "name": "Japan",
+  "iso_symbol": "JP",
+  "flag": "https://disease.sh/assets/img/flags/jp.png",
+  "confirmed": 470175,
+  "deaths": 9086,
+  "recovered": 443640
+}

@@ -1,0 +1,9 @@
+{
+  "id": 189,
+  "name": "St. Barth",
+  "iso_symbol": "BL",
+  "flag": "https://disease.sh/assets/img/flags/bl.png",
+  "confirmed": 775,
+  "deaths": 1,
+  "recovered": 462
+}

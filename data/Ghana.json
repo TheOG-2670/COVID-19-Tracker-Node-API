@@ -1,0 +1,9 @@
+{
+  "id": 77,
+  "name": "Ghana",
+  "iso_symbol": "GH",
+  "flag": "https://disease.sh/assets/img/flags/gh.png",
+  "confirmed": 90287,
+  "deaths": 740,
+  "recovered": 87137
+}

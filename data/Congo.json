@@ -1,0 +1,9 @@
+{
+  "id": 45,
+  "name": "Congo",
+  "iso_symbol": "CG",
+  "flag": "https://disease.sh/assets/img/flags/cg.png",
+  "confirmed": 9681,
+  "deaths": 135,
+  "recovered": 8208
+}

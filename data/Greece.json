@@ -1,0 +1,9 @@
+{
+  "id": 79,
+  "name": "Greece",
+  "iso_symbol": "GR",
+  "flag": "https://disease.sh/assets/img/flags/gr.png",
+  "confirmed": 260077,
+  "deaths": 8017,
+  "recovered": 219367
+}

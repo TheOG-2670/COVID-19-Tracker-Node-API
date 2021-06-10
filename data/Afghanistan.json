@@ -1,0 +1,9 @@
+{
+  "id": 0,
+  "name": "Afghanistan",
+  "iso_symbol": "AF",
+  "flag": "https://disease.sh/assets/img/flags/af.png",
+  "confirmed": 56454,
+  "deaths": 2484,
+  "recovered": 51473
+}

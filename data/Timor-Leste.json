@@ -1,0 +1,9 @@
+{
+  "id": 200,
+  "name": "Timor-Leste",
+  "iso_symbol": "TL",
+  "flag": "https://disease.sh/assets/img/flags/tl.png",
+  "confirmed": 563,
+  "deaths": 0,
+  "recovered": 181
+}

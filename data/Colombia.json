@@ -1,0 +1,9 @@
+{
+  "id": 43,
+  "name": "Colombia",
+  "iso_symbol": "CO",
+  "flag": "https://disease.sh/assets/img/flags/co.png",
+  "confirmed": 2397731,
+  "deaths": 63255,
+  "recovered": 2279840
+}

@@ -1,0 +1,9 @@
+{
+  "id": 6,
+  "name": "Antigua and Barbuda",
+  "iso_symbol": "AG",
+  "flag": "https://disease.sh/assets/img/flags/ag.png",
+  "confirmed": 1136,
+  "deaths": 28,
+  "recovered": 820
+}

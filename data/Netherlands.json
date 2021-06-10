@@ -1,0 +1,9 @@
+{
+  "id": 143,
+  "name": "Netherlands",
+  "iso_symbol": "NL",
+  "flag": "https://disease.sh/assets/img/flags/nl.png",
+  "confirmed": 1264983,
+  "deaths": 16509,
+  "recovered": 0
+}

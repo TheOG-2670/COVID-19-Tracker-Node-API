@@ -1,0 +1,9 @@
+{
+  "id": 178,
+  "name": "Sierra Leone",
+  "iso_symbol": "SL",
+  "flag": "https://disease.sh/assets/img/flags/sl.png",
+  "confirmed": 3970,
+  "deaths": 79,
+  "recovered": 2801
+}

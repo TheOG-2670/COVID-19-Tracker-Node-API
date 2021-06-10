@@ -1,0 +1,9 @@
+{
+  "id": 127,
+  "name": "Martinique",
+  "iso_symbol": "MQ",
+  "flag": "https://disease.sh/assets/img/flags/mq.png",
+  "confirmed": 7710,
+  "deaths": 49,
+  "recovered": 98
+}

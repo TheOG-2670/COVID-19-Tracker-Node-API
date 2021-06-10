@@ -1,0 +1,9 @@
+{
+  "id": 21,
+  "name": "Bermuda",
+  "iso_symbol": "BM",
+  "flag": "https://disease.sh/assets/img/flags/bm.png",
+  "confirmed": 1136,
+  "deaths": 12,
+  "recovered": 728
+}

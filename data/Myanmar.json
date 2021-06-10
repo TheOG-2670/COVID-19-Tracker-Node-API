@@ -1,0 +1,9 @@
+{
+  "id": 140,
+  "name": "Myanmar",
+  "iso_symbol": "MM",
+  "flag": "https://disease.sh/assets/img/flags/mm.png",
+  "confirmed": 142412,
+  "deaths": 3206,
+  "recovered": 131793
+}

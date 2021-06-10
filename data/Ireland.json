@@ -1,0 +1,9 @@
+{
+  "id": 97,
+  "name": "Ireland",
+  "iso_symbol": "IE",
+  "flag": "https://disease.sh/assets/img/flags/ie.png",
+  "confirmed": 235444,
+  "deaths": 4681,
+  "recovered": 23364
+}

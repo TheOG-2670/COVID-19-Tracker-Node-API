@@ -1,0 +1,9 @@
+{
+  "id": 46,
+  "name": "Costa Rica",
+  "iso_symbol": "CR",
+  "flag": "https://disease.sh/assets/img/flags/cr.png",
+  "confirmed": 216764,
+  "deaths": 2957,
+  "recovered": 192699
+}

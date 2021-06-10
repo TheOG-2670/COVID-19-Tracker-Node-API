@@ -1,0 +1,9 @@
+{
+  "id": 56,
+  "name": "Djibouti",
+  "iso_symbol": "DJ",
+  "flag": "https://disease.sh/assets/img/flags/dj.png",
+  "confirmed": 7790,
+  "deaths": 69,
+  "recovered": 6380
+}

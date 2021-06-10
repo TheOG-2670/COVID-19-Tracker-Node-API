@@ -1,0 +1,9 @@
+{
+  "id": 192,
+  "name": "Swaziland",
+  "iso_symbol": "SZ",
+  "flag": "https://disease.sh/assets/img/flags/sz.png",
+  "confirmed": 17333,
+  "deaths": 667,
+  "recovered": 16481
+}

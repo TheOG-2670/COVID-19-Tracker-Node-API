@@ -1,0 +1,9 @@
+{
+  "id": 19,
+  "name": "Belize",
+  "iso_symbol": "BZ",
+  "flag": "https://disease.sh/assets/img/flags/bz.png",
+  "confirmed": 12415,
+  "deaths": 317,
+  "recovered": 12061
+}

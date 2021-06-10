@@ -1,0 +1,9 @@
+{
+  "id": 206,
+  "name": "UAE",
+  "iso_symbol": "AE",
+  "flag": "https://disease.sh/assets/img/flags/ae.png",
+  "confirmed": 459360,
+  "deaths": 1492,
+  "recovered": 443153
+}

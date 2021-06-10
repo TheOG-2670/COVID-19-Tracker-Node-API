@@ -1,0 +1,9 @@
+{
+  "id": 4,
+  "name": "Angola",
+  "iso_symbol": "AO",
+  "flag": "https://disease.sh/assets/img/flags/ao.png",
+  "confirmed": 22182,
+  "deaths": 536,
+  "recovered": 20446
+}

@@ -1,0 +1,9 @@
+{
+  "id": 177,
+  "name": "Seychelles",
+  "iso_symbol": "SC",
+  "flag": "https://disease.sh/assets/img/flags/sc.png",
+  "confirmed": 4135,
+  "deaths": 22,
+  "recovered": 3745
+}

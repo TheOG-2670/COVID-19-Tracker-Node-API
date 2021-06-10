@@ -1,0 +1,9 @@
+{
+  "id": 211,
+  "name": "Uruguay",
+  "iso_symbol": "UY",
+  "flag": "https://disease.sh/assets/img/flags/uy.png",
+  "confirmed": 99584,
+  "deaths": 928,
+  "recovered": 79410
+}

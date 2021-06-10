@@ -1,0 +1,9 @@
+{
+  "id": 75,
+  "name": "Georgia",
+  "iso_symbol": "GE",
+  "flag": "https://disease.sh/assets/img/flags/ge.png",
+  "confirmed": 281145,
+  "deaths": 3773,
+  "recovered": 272899
+}
