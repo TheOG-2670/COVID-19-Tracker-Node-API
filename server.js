@@ -28,8 +28,16 @@ app.get('/api/covid/global', (req, res)=>{
 app.get('/api/covid/countries/:name', (req, res)=>{
     console.log(req.params.name)
     
-    dataService.getCountryData(req.params.name, (data)=>{
-        console.log(data)
+    dataService.getCountryData(req.params.name, (data, error)=>{
+        console.log('data: ' + data + '\nerror: ' + error)
+        
+        
+        if(error!==undefined)
+        {
+            res.status(404).send()
+            return
+        }
+        
         res.setHeader('Content-Type', 'application/json')
         res.json(data)
     })

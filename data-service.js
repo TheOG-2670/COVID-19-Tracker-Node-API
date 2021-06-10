@@ -78,7 +78,12 @@ module.exports.getGlobalCovidData = function () {
 }
 
 //read from cache
-module.exports.getCountryData = async function(name, callback) {
-    var data=JSON.parse(fs.readFileSync(path.join(__dirname + "/data/"+name+".json")))
-    callback(data)
+module.exports.getCountryData = function(name, callback) {
+    try{
+        var data=JSON.parse(fs.readFileSync(path.join(__dirname + "/data/"+name+".json")))
+        callback(data)
+    } catch(error){
+        callback(data, error)
+    }
+    
 }
