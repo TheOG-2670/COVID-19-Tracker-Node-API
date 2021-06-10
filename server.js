@@ -1,5 +1,3 @@
-//TODO: add route to update cache
-
 const express = require('express')
 const app = express()
 const dataService = require('./data-service')
@@ -19,28 +17,32 @@ app.get('/api/covid/initData', (req, res)=>{
 })
 
 app.get('/api/covid/global', (req, res)=>{
+    dataService.updateGlobalData()
     var updatedGlobal = dataService.getGlobalCovidData()
-    res.setHeader('Content-Type', 'application/json')
     res.json(updatedGlobal)
     console.log("server - global data updated!")
 })
 
-app.get('/api/covid/countries/:name', (req, res)=>{
-    console.log(req.params.name)
+app.get('/api/covid/countries/:name/cached', (req, res)=>{
     
     dataService.getCountryData(req.params.name, (data, error)=>{
-        console.log('data: ' + data + '\nerror: ' + error)
-        
+        console.log('data: ' + data + '\nerror: ' + error)    
         
         if(error!==undefined)
         {
             res.status(404).send()
             return
         }
-        
-        res.setHeader('Content-Type', 'application/json')
+    
         res.json(data)
     })
+})
+
+app.get('/api/covid/countries/:name/update', (req,res)=>{
+    dataService.getCountryData(req.params.name, (data, error)=>{
+        dataService.updateCountryData(data)
+    })
+    res.send({response: 'updated'})
 })
 
 app.listen(http_port, () => {
